@@ -243,9 +243,9 @@ Toine T
 <sub>*and other heroes*</sub>
 
 **🥉 3 BEERS**  
+DrBrochmann  
 Jeroen  
 Marco  
-Martin the Biuilder  
 <sub>*and other heroes*</sub>
 
 **⭐ 2 BEERS**  
@@ -255,9 +255,9 @@ mggevaer
 <sub>*and other heroes*</sub>
 
 **⭐ 1 BEERS**  
+Christof  
+Luke  
 Schredder51  
-Grana  
-Battiegoal  
 <sub>*and other heroes*</sub>
 
 ### Want to join the Club?
